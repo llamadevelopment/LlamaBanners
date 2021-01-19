@@ -1,0 +1,8 @@
+name: LlamaBanners
+version: 1.0.0-SNAPSHOT
+author: Mundschutziii
+api: 1.0.0
+main: net.lldv.llamabanners.LlamaBanners
+description: Create your own banners
+depend:
+  - LlamaEconomy
