@@ -1,9 +1,9 @@
 # LlamaBanners
 
-Create community boosters
+Buy your own banner patterns and apply them
 
-> * Download the latest version here: [Download]()
-> * Browse other versions of LlamaBanners here: [Browse]()
+> * Download the latest version here: [Download](https://cloudburstmc.org/resources/llamabanners.642/download)
+> * Browse other versions of LlamaBanners here: [Browse](https://cloudburstmc.org/resources/llamabanners.642/history)
 
 ### Join our Discord:
 [![d](https://img.shields.io/discord/323953253458903040.svg)](https://discord.gg/Qcuv2f6)
@@ -21,10 +21,11 @@ Create community boosters
 ---
 
 ## Installation
-1. [Download]() the .jar file.
+1. [Download](https://cloudburstmc.org/resources/llamabanners.642/download) the .jar file.
 2. Paste the file into your plugin folder.
-3. Start your server.
-4. And have fun using LlamaBanners.
+3. Make sure that [LlamaEconomy](https://cloudburstmc.org/resources/llamaeconomy.634/) is installed.
+4. Start your server.
+5. And have fun using LlamaBanners.
 
 ---
 
@@ -37,15 +38,6 @@ banner |    /banner |    llamabanners.command.banner
 **All commands are editable: Permission, Usage, Command name and Command aliases.**
 
 ---
-
-## Screenshots
-
-![Alt Text]()
-![Alt Text]()
-![Alt Text]()
-
----
-
 
 ## Thanks to ZAP-Hosting!
 This project wouldn't be possible without the help of ZAP-Hosting!
